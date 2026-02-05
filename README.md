@@ -24,6 +24,13 @@
 >
 > **O projeto pode ser ampliado futuramente para não manter simplesmente configurações**
 
+## Como aplicar as configurações
+1. Baixe o arquivo no fundo da página
+2. Descompacte o arquivo
+3. Copie os arquivos da pasta **config** para a pasta de mesmo nome da sua versão
+
+---
+
 [📥 Baixar configuração](https://github.com/chrizuno/mono-maines/raw/root/monos.zip)
 
 [🧾 Modificações](docs/modificacoes.md)
