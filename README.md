@@ -13,7 +13,7 @@
 - Snow! Real Magic
 
 > [!IMPORTANT]
-> Isso é um projeto **pessoal**, não recomendo utiliza-lo.
+> Isso é um projeto **pessoal**, não recomendo utilizá-lo.
 > 
 > Ainda **instável** e em estado inicial de testes.
 >
@@ -25,9 +25,9 @@
 > **O projeto pode ser ampliado futuramente para não manter simplesmente configurações**
 
 ## Como aplicar as configurações
-1. Baixe o arquivo no fundo da página
+1. Baixe o arquivo da configuração abaixo
 2. Descompacte o arquivo
-3. Copie os arquivos da pasta **config** para a pasta de mesmo nome da sua versão
+3. Copie os arquivos da pasta **config** para a pasta de mesmo nome da sua versão Minecraft
 
 ---
 
