@@ -13,6 +13,8 @@
 - Snow! Real Magic
 
 > [!IMPORTANT]
+> Isso é um projeto **pessoal**, não recomendo utiliza-lo.
+> 
 > Ainda **instável** e em estado inicial de testes.
 >
 > **A fazer:**
