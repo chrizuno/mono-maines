@@ -1,6 +1,6 @@
 <div align=center>
- <h1>MONOS MODPACK</h1>
-  <p>Configuração de certos mods do modpack dos Monos</p>
+ <h1>MONOS CONFIG</h1>
+  <p>Configuração de certos mods de um modpack entre amigos</p>
   <img src="https://img.shields.io/badge/forge-CC241D?style=for-the-badge&labelColor=282828&label=47.4.10">
   <img src="https://img.shields.io/badge/java-D79921?style=for-the-badge&labelColor=282828&label=1.20.1">
 </div>
