@@ -72,7 +72,7 @@
   "villagerChatAIEndpoint": "https://api.conczin.net/v1/mca/chat",
   "villagerChatAIUseTools": false,
   "villagerChatAIToken": "",
-  "villagerChatAIModel": "mistral",
+  "villagerChatAIModel": "default",
   "villagerChatAISystemPrompt": "",
   "villagerChatAIUseLongTermMemory": false,
   "villagerChatAIUseSharedLongTermMemory": false,
