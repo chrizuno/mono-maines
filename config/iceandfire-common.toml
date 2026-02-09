@@ -1,4 +1,3 @@
-
 [Generation]
 
 	[Generation.Dragon]
@@ -63,7 +62,7 @@
 		"Dragon Flute Distance" = 4
 		#Max dragon health. Health is scaled to this
 		#Range: 1.0 ~ 100000.0
-		"Dragon Health" = 1100.0
+		"Dragon Health" = 750.0
 		#Max dragon attack damage. Attack Damage is scaled to this
 		#Range: 1 ~ 10000
 		"Dragon Attack Damage" = 17
