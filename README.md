@@ -27,7 +27,9 @@
 
 ---
 
-[📥 Baixar configuração](https://github.com/chrizuno/mono-maines/raw/root/monos.zip)
+[🧾 Documentação](/docs/README.md)
 
-[🧾 Modificações](https://downgit.github.io/#/home?url=https://github.com/chrizuno/mono-maines/tree/root/config)
+[📥 Baixar configuração](https://downgit.github.io/#/home?url=https://github.com/chrizuno/mono-maines/tree/root/config)
+
+
 
