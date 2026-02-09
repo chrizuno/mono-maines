@@ -1,6 +1,6 @@
 <div align=center>
  <h1>MONOS CONFIG</h1>
-  <p>Configuração de certos mods de um modpack entre amigos</p>
+  <p>Configurações de certos mods para Minecraft (modpack) entre amigos</p>
   <img src="https://img.shields.io/badge/forge-CC241D?style=for-the-badge&labelColor=282828&label=47.4.10">
   <img src="https://img.shields.io/badge/java-D79921?style=for-the-badge&labelColor=282828&label=1.20.1">
 </div>
@@ -14,13 +14,9 @@
 
 > [!IMPORTANT]
 > Isso é um projeto **pessoal**, não recomendo utilizá-lo.
-> 
-> Ainda **instável** e em estado inicial de testes.
 >
-> **A fazer:**
-> - Rastreamento das modificações feitas
-> - Melhor organização
-> - Testes em longo prazo
+> Este projeto **não é um modpack**. Ele contém apenas **configs**.
+> Ainda **instável** e em estado inicial de testes.
 >
 > **O projeto pode ser ampliado futuramente para não manter simplesmente configurações**
 
@@ -33,5 +29,5 @@
 
 [📥 Baixar configuração](https://github.com/chrizuno/mono-maines/raw/root/monos.zip)
 
-[🧾 Modificações](docs/modificacoes.md)
+[🧾 Modificações](docs/README.md)
 
