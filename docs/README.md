@@ -1,6 +1,6 @@
 # 📘 Documentação
 
-Este diretório (`/docs`) contém a **documentação oficial das modificações feitas nas configurações dos mods** do modpack.  
+Este diretório (`/docs`) contém a **documentação das modificações feitas nas configurações dos mods** do modpack.  
 
 ## 📂 Arquivos
 
@@ -54,10 +54,7 @@ O sistema de neve foi ajustado para ser coerente com as estações e evitar o bu
 ## 🐉 Criaturas
 📄 Arquivo: [`iceandfire.md`](/iceandfire.md)
 
-
-Foi ajustado para ter menos monstros, porém mais perigoso quando elas aparecem.
-
-**Dragões e outros mobs mais raros, mas mais resistentes**
+Dragões e outros mobs mais raros, mas mais resistentes
 
 ---
 
@@ -66,7 +63,7 @@ Foi ajustado para ter menos monstros, porém mais perigoso quando elas aparecem.
 
 O MCA foi ajustado para ter uma progressão mais lenta e integração com o calendário do jogo.
 
-- Crianças levam muuuito mais para crescer
+- Crianças levam muuuito mais para crescer (2 anos)
 - São necessários mais corações para interações em geral
 - Guardas defendem ativamente
 
